@@ -22,5 +22,7 @@ public class MyTest {
         for (Student s : students) {
             System.out.println(s.name + ": " + s.score);
         }
+
+        System.out.println("esssss");
     }
 }
